@@ -25,5 +25,40 @@
 
 
 
+# Our Tables
+--------------
+|People                        |
+|------------------------------|
+|Id                            |
+|Name                          |
+|Email                         |
+|Favorite Programming Language |
+
+
+
+
+# The RESTful API system supports 
+--------------
+|Request                        |Routings                                     |
+|-------------------------------|---------------------------------------------|
+|POST a person                  |http://localhost:8080/api/people             |
+|GET all people                 |http://localhost:8080/api/people             |
+|GET a person                   |http://localhost:8080/api/people/{id}        |
+|PATCH a person                 |http://localhost:8080/api/people/{id}        |
+|DELETE a person                |http://localhost:8080/api/people/{id}        |
+|GET all tasks of a person      |http://localhost:8080/api/people/{id}        |
+|POST a task to a person        |http://localhost:8080/api/people/{id}        |
+|GET a task                     |http://localhost:8080/api/tasks/{id}         |
+|PATCH a task                   |http://localhost:8080/api/tasks/{id}         |
+|DELETE a task                  |http://localhost:8080/api/tasks/{id}         |
+|GET a task's status            |http://localhost:8080/api/tasks/{id}/status  |
+|PUT new status to a task       |http://localhost:8080/api/tasks/{id}/status  |
+|GET a task's owner id          |http://localhost:8080/api/tasks/{id}/owner   |
+|PUT new owner id to a task     |http://localhost:8080/api/tasks/{id}/status  |
+
+
+
+
+
 # GOOD LUCK !
 
