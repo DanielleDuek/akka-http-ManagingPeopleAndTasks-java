@@ -1,34 +1,30 @@
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
 [0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
 [0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 19 products, 10 sources, 9 libraries[0m
-[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/java/com/example/Task.java, ${BASE}/src/main/java/com/example/GenericTask.java, ${BASE}/src/main/java/com/example/HomeWork.java, ${BASE}/src/main/java/com/example/Chore.java, ${BASE}/src/main/java/com/example/Status.java, ${BASE}/src/main/java/com/example/Person.java, ${BASE}/src/main/java/com/example/UserRegistry.java, ${BASE}/src/main/java/com/example/QuickstartApp.java, ${BASE}/src/main/java/com/example/UserRoutes.java, ${BASE}/src/main/java/com/example/PersonDetails.java)[0m
-[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/src/main/java/com/example/QuickstartApp.java), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/java/com/example/GenericTask.java, ${BASE}/src/main/java/com/example/HomeWork.java, ${BASE}/src/main/java/com/example/Chore.java, ${BASE}/src/main/java/com/example/Status.java, ${BASE}/src/main/java/com/example/Person.java, ${BASE}/src/main/java/com/example/App.java, ${BASE}/src/main/java/com/example/PersonDetails.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(${BASE}/src/main/java/com/example/App.java), removed = Set(${BASE}/src/main/java/com/example/Task.java, ${BASE}/src/main/java/com/example/QuickstartApp.java, ${BASE}/src/main/java/com/example/UserRegistry.java, ${BASE}/src/main/java/com/example/UserRoutes.java), changed = Set(${BASE}/src/main/java/com/example/Chore.java, ${BASE}/src/main/java/com/example/HomeWork.java), unmodified = ...),Set(),Set(),API Changes: Set())[0m
 [0m[[0m[0mdebug[0m] [0m[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mInitial source changes:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	removed: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(${BASE}/src/main/java/com/example/QuickstartApp.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed: Set(${BASE}/src/main/java/com/example/Task.java, ${BASE}/src/main/java/com/example/QuickstartApp.java, ${BASE}/src/main/java/com/example/UserRegistry.java, ${BASE}/src/main/java/com/example/UserRoutes.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(${BASE}/src/main/java/com/example/App.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(${BASE}/src/main/java/com/example/Chore.java, ${BASE}/src/main/java/com/example/HomeWork.java)[0m
 [0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(com.example.QuickstartApp)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(com.example.UserRegistry.GetUserResponse, com.example.UserRegistry.DeleteUser, com.example.UserRegistry.GetUser, com.example.UserRegistry.Users, com.example.UserRegistry, com.example.HomeWork, com.example.UserRegistry.CreateUser, com.example.UserRegistry.ActionPerformed, com.example.Chore, com.example.QuickstartApp, com.example.Task, com.example.UserRegistry.Command, com.example.UserRegistry.GetUsers, com.example.UserRoutes, com.example.UserRegistry.User)[0m
 [0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(com.example.QuickstartApp)[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(${BASE}/src/main/java/com/example/QuickstartApp.java)[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: com.example.QuickstartApp[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(com.example.UserRegistry.GetUserResponse, com.example.UserRegistry.DeleteUser, com.example.UserRegistry.GetUser, com.example.UserRegistry.Users, com.example.UserRegistry, com.example.HomeWork, com.example.UserRegistry.CreateUser, com.example.UserRegistry.ActionPerformed, com.example.Chore, com.example.QuickstartApp, com.example.Task, com.example.UserRegistry.Command, com.example.UserRegistry.GetUsers, com.example.UserRoutes, com.example.UserRegistry.User)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(${BASE}/src/main/java/com/example/App.java, ${BASE}/src/main/java/com/example/Chore.java, ${BASE}/src/main/java/com/example/HomeWork.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: com.example.UserRegistry.GetUserResponse, com.example.UserRegistry.DeleteUser, com.example.UserRegistry.GetUser, com.example.UserRegistry.Users, com.example.UserRegistry, com.example.HomeWork, com.example.UserRegistry.CreateUser, com.example.UserRegistry.ActionPerformed, com.example.Chore, com.example.QuickstartApp, com.example.Task, com.example.UserRegistry.Command, com.example.UserRegistry.GetUsers, com.example.UserRoutes, com.example.UserRegistry.User[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding com.example.UserRegistry.GetUsers by com.example.UserRegistry.Command[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0% of all sources[0m
 [0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Java source to C:\Users\danie\Desktop\University\fourthYear\semsterB\ProgramLanguages\akka-http-quickstart-java\target\scala-2.13\classes ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@512aa200 directly...[0m
-[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 1.5246389 s[0m
-[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.6525365 s[0m
-[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 2.1963697 s[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 7 Java sources to C:\Users\danie\Desktop\akk-project\target\scala-2.13\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@5233ecb9 directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 1.5645157 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.9210679 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 2.5307967 s[0m
 [0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
-[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
-[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
-[0m[[0m[0mdebug[0m] [0m[0mFinal step, transitive dependencies:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m

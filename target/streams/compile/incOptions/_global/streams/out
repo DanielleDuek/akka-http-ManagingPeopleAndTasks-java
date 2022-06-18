@@ -1,8 +1,50 @@
-[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\danie\Desktop\University\fourthYear\semsterB\ProgramLanguages\akka-http-quickstart-java\target\scala-2.13\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\danie\Desktop\akk-project\target\scala-2.13\classes.bak[0m
 [0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chore.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$GetUser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$CreateUser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GenericTask.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$ActionPerformed.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HomeWork.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRoutes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$GetUsers.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	QuickstartApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$DeleteUser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Status.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$Users.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersonDetails.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$GetUserResponse.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chore.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$GetUser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$CreateUser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Task.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GenericTask.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$ActionPerformed.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HomeWork.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRoutes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$GetUsers.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	QuickstartApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$DeleteUser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Status.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$Users.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersonDetails.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistry$GetUserResponse.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	QuickstartApp.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\danie\Desktop\University\fourthYear\semsterB\ProgramLanguages\akka-http-quickstart-java\target\scala-2.13\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chore.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GenericTask.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	App.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HomeWork.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Status.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersonDetails.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\danie\Desktop\akk-project\target\scala-2.13\classes.bak[0m
