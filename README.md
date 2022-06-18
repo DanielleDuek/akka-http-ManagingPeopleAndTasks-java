@@ -29,26 +29,32 @@
 --------------
 Our tables create automatically when the server starting to run.
 
-                      |Persons                       |  
-                      |------------------------------|
-                      |Id                            |
-                      |Name                          |
-                      |Email                         |
-                      |Favorite Programming Language |
+|Persons                       |  
+|------------------------------|
+|Id                            |
+|Name                          |
+|Email                         |
+|Favorite Programming Language |
 
-                      |Tasks                         |
-                      |------------------------------|
-                      |Id                            |
-                      |OwnerId                       |
-                      |Type                          |
-                      |Status                        |
+|Tasks                         |
+|------------------------------|
+|Id                            |
+|OwnerId                       |
+|Type                          |
+|Status                        |
 
-|Chore                        |      |HomeWork                      |
-|-----------------------------|      |------------------------------|
-|TaskId                       |      |TaskId                        |
-|Description                  |      |Course                        |
-|Size                         |      |DueDate                       |
-                                     |Details                       |
+|Chore                         |      
+|------------------------------|  
+|TaskId                        | 
+|Description                   |      
+|Size                          |      
+                                     
+|HomeWork                      |
+|------------------------------|
+|TaskId                        |
+|Course                        |
+|DueDate                       |
+|Details                       |
 
 
 
