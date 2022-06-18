@@ -11,6 +11,7 @@
 --------------
 - JDK 11
 - sbt 1.4.5 or higher
+- SQLite
 
 
 
@@ -18,8 +19,8 @@
 --------------
 - First, you need to download SQLite and create a new Database.
   Then, you need to put the path that lead to the new Database you created (your db file) in your computer in line 70 (in the url variable) in `App.java` file.
-- To running the server, press `sbt run` in the command prompt.
-- To send an HTTP Request, you need to use `http://localhost:8080/{PATH}`.
+- To run the server, press `sbt run` in the command prompt.
+- To send an HTTP Request, you need to use the URL : `http://localhost:8080/{PATH}`.
 - To terminate the server running, you need to press `return` in the command prompt. 
 
 
